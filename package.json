@@ -1,0 +1,23 @@
+{
+  "name": "flag-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrankGG/flag-icons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrankGG/flag-icons/issues"
+  },
+  "homepage": "https://github.com/PrankGG/flag-icons#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
