@@ -1,4 +1,4 @@
 # Flags
-Just some svg flags!
+flag svgs
 
-[![](https://data.jsdelivr.com/v1/package/gh/PrankGG/Flags/badge)](https://www.jsdelivr.com/package/gh/PrankGG/Flags)
+[![](https://data.jsdelivr.com/v1/package/gh/lonelil/flags/badge)](https://www.jsdelivr.com/package/gh/lonelil/flags)
